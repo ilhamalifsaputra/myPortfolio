@@ -13,6 +13,11 @@
     --sectionPadding: 6rem 0;
     --itemBorderRadius: 0.7rem;
 }
+
+html {
+    scroll-behaviour: smooth;
+}
+
 * {
     margin: 0;
     padding: 0;
